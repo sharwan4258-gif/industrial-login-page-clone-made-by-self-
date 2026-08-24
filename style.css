@@ -1,0 +1,133 @@
+ body {
+     /* the main part of web page from i center the l;ogin card  */
+     margin: 0;
+     min-height: 100vh;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     background-color: rgba(244, 122, 244, 0.828);
+     box-sizing: border-box;
+ }
+
+ /* login card decoration and login page  */
+ .portal-login {
+     margin: 35px;
+     padding: 40px;
+     border: 2px solid black;
+     border-radius: 70px;
+     border-color: blue;
+     border-width: 5px;
+     background-color: white;
+     border: 2.5px solid rgb(125, 211, 240);
+     box-shadow: 15px 5px 8px;
+     border-top: 9px solid rgb(99, 99, 226);
+     border-left: 9px solid rgb(54, 147, 54);
+     border-right: 9px solid rgb(54, 114, 54);
+     border-bottom: 9px solid rgb(82, 82, 238);
+     box-sizing: border-box;
+ }
+
+ /* heading decoration */
+ .heading {
+     margin: 2px;
+     padding: 2px;
+     font-variant: inherit;
+     display: flex;
+     text-align: center;
+     justify-content: center;
+
+     text-decoration: underline;
+     text-shadow: 10px 5px 6px;
+     box-sizing: border-box;
+ }
+
+ /* para desining  */
+ .para {
+
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     color: black;
+     display: flex;
+     text-align: center;
+     justify-content: center;
+     text-transform: capitalize;
+     box-sizing: border-box;
+
+ }
+
+ /* input box desinging section  */
+ .user-name {
+     display: flex;
+     text-align: center;
+     justify-content: center;
+     font-weight: 500;
+     text-transform: capitalize;
+     box-sizing: border-box;
+
+ }
+
+ /* employe id section style */
+ .sharwan {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     border-width: 3px;
+     border-radius: 40px;
+     box-sizing: border-box;
+
+ }
+
+ .code {
+     display: flex;
+     text-align: center;
+     justify-content: center;
+     font-weight: 500;
+     text-transform: capitalize;
+     box-sizing: border-box;
+
+ }
+
+ /* 
+employe ID section style  */
+ .number {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     border-width: 3px;
+     border-radius: 40px;
+     box-sizing: border-box;
+
+ }
+
+ /* department section desinging */
+ .dpt {
+     display: flex;
+     text-align: center;
+     justify-content: center;
+     font-weight: 500;
+     text-transform: capitalize;
+     box-sizing: border-box;
+ }
+
+ .input-3 {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     border-width: 3px;
+     border-radius: 40px;
+     box-sizing: border-box;
+ }
+
+ .last-part {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     color: blue;
+     text-decoration: dotted;
+
+
+ }
+
+ :hover button {
+     background-color: aqua;
+ }
+ 
